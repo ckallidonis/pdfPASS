@@ -4,10 +4,11 @@ mostly related to hadron Parton Distribution Functions, or PDFs.
 
 ## Description
 
-This package will consist mostly on self-concise Jupyter-notebook Python scripts that perform the various analyses.
-The input to these scripts are the two- and three-point functions produced from the Chroma and Redstar packages.
+This package will use the Jupyter-notebook application to perform the various analyses using Python.
+The input is two- and three-point functions produced from the Chroma and Redstar packages.
+The purpose of this package is to provide a means of preliminary analysis and plotting results, not paying particular attention to optimization and design.
 
 ## Author and Contact
 
-* **Christos Kallidonis** - William & Mary
-* Web: [http://christoskallidonis.com](http://christoskallidonis.com).
+* **Christos Kallidonis** - William & Mary / Jefferson Lab
+* Web: [https://christoskallidonis.com](https://christoskallidonis.com).
